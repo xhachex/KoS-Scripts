@@ -51,3 +51,4 @@ wait 1.
 remove nd.
 
 set ship:control:pilotmainthrottle to 0.
+/end
